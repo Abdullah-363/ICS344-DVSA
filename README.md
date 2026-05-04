@@ -2,7 +2,8 @@
 
 **King Fahd University of Petroleum and Minerals (KFUPM)**  
 **Course:** ICS-344: Information Security | **Term:** 252  
-**Student:** Abdullah Almalki | **ID:** 202030200  
+**Student:** Abdullah Almalki | **ID:** 202030200
+**Team number:** 67
 **Submission Type:** Individual  
 
 ---
